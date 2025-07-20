@@ -78,3 +78,6 @@ This project demonstrates how core **web development technologies**—HTML for s
 Whether used as a learning tool or a project showcase, this Basic Calculator stands as a clean, interactive, and aesthetically pleasing example of web development with pure HTML, CSS, and JavaScript.
 
 ## 💻 Output
+
+![Image](https://github.com/user-attachments/assets/52880e02-08a6-4fd9-9e2b-bc4837801807)
+![Image](https://github.com/user-attachments/assets/2e288dc1-1bb5-4f5e-b213-01621593390e)
